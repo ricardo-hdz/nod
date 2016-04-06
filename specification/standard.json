@@ -1,0 +1,116 @@
+{
+    "item": {
+        "type": "produce",
+        "origin": {
+            "farm": "My farm",
+            "location": {},
+            "certifications": {},
+            "description": "",
+            "url": ""
+        },
+        "harvest": {
+            "date": "",
+            "type": "",
+            "notes": {},
+            "metadata": {}
+        },
+        "supplychain": [
+            {
+                "name": "",
+                "handlingDate": "",
+                "processing": [{}],
+                "costs": {
+                    "unit": ""
+                }
+            }
+        ],
+        "nutrition": {
+            "macronutrients": {
+                "fat": "",
+                "sugar": "",
+                "sodium": "",
+                "protein": ""
+            },
+            "micronutrients": {}
+        }
+    },
+    "item": {
+        "type": "staple",
+        "origin": {
+            "producer": "My farm",
+            "location": {},
+            "certifications": {},
+            "description": "",
+            "url": ""
+        },
+        "supplychain": [
+            {
+                "name": "",
+                "handlingDate": "",
+                "processing": [{}],
+                "costs": {
+                    "unit": ""
+                }
+            }
+        ],
+        "nutrition": {
+            "macronutrients": {
+                "fat": "",
+                "sugar": "",
+                "sodium": "",
+                "protein": ""
+            },
+            "micronutrients": {}
+        }
+    },
+    "item": {
+        "type": "meal",
+        "cost": "",
+        "price": "",
+        "origin": {
+            "producer": "My farm",
+            "location": {},
+            "certifications": {},
+            "description": "",
+            "url": ""
+        },
+        "ingredients": [{
+            "item": "",
+            "quantity": ""
+        }],
+        "nutrition": {
+            "macronutrients": {
+                "fat": "",
+                "sugar": "",
+                "sodium": "",
+                "protein": ""
+            },
+            "micronutrients": {}
+        }
+    },
+    "item": {
+        "type": "beverage",
+        "cost": "",
+        "price": "",
+        "origin": {
+            "producer": "",
+            "location": {},
+            "certifications": {},
+            "description": "",
+            "url": ""
+        },
+        "ingredients": [{
+            "item": "",
+            "quantity": ""
+        }],
+        "nutrition": {
+            "macronutrients": {
+                "fat": "",
+                "sugar": "",
+                "sodium": "",
+                "protein": ""
+            },
+            "micronutrients": {}
+        }
+    }
+}
