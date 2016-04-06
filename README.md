@@ -1,4 +1,4 @@
-# nod - Nutrition Open Data
+# NOD - Nutrition Open Data
 Nutrition Open Data is an open-standard format based on JSON to transmit data objects related to the food industry.
 
 With the increasing number of startups and business entities related to the food+tech industry is necessary to start thinking about how to share and track data across the full stack of food production, all the way from harvesting to the table.
